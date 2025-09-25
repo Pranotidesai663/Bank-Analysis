@@ -90,25 +90,5 @@ This banking analysis dashboard analyzes loan data with multiple financial KPIs 
 - **Calculated Fields**: Custom metrics for enhanced analysis
 - **Data Relationships**: Linked Finance_1 and Finance_2 datasets for comprehensive analysis
 
-## 📋 Usage Instructions
 
-### Prerequisites
-- Tableau Desktop 2025.1 or later
-- Access to the source banking data (Banking.xlsx)
-
-### Opening the Dashboard
-1. Download the `Banking Analysis.twbx` file
-2. Open with Tableau Desktop
-3. Refresh data connections if needed
-4. Navigate through different worksheets and dashboards
-
-### Key Navigation Tips
-- Use the parameter controls to adjust the number of states displayed
-- Click on charts to filter related visualizations
-- Explore different worksheets for specific analysis areas
-- Use the dashboard view for comprehensive overview
-
-
-
-Ultra
 
